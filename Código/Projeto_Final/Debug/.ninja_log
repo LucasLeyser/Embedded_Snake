@@ -1,0 +1,20 @@
+# ninja log v5
+152	1308	6920289909050962	C:/Users/lucas/Documents/UTFPR/Semestre/Sistemas Embarcados/LucasLeyser/sist-emb/Projeto_Final/Debug/Obj/lcd.o	2667b7689242027e
+476	753	6920289903624315	C:/Users/lucas/Documents/UTFPR/Semestre/Sistemas Embarcados/LucasLeyser/sist-emb/Projeto_Final/Debug/Obj/pause_button.o	16e272cc1a4c8cd6
+7	137	6920289897498110	C:/Users/lucas/Documents/UTFPR/Semestre/Sistemas Embarcados/LucasLeyser/sist-emb/Projeto_Final/Debug/Obj/joystick.o	56ad642ea552e95a
+1390	1588	6920289911879217	C:/Users/lucas/Documents/UTFPR/Semestre/Sistemas Embarcados/LucasLeyser/sist-emb/Projeto_Final/Debug/Exe/Projeto_Final.out	677449f9d50c5971
+2	279	6905793950924630	C:/Users/lucas/Documents/UTFPR/Semestre/Sistemas Embarcados/LucasLeyser/sist-emb/Projeto_Final/Debug/Obj/adc.o	54f33ef0e8145a8f
+1098	1377	6920289909840473	C:/Users/lucas/Documents/UTFPR/Semestre/Sistemas Embarcados/LucasLeyser/sist-emb/Projeto_Final/Debug/Obj/main.o	5adcaa998be0182a
+967	1082	6920289906952267	C:/Users/lucas/Documents/UTFPR/Semestre/Sistemas Embarcados/LucasLeyser/sist-emb/Projeto_Final/Debug/Obj/startup_ewarm.o	65c5ee9690a5620f
+28	463	6920289900716110	C:/Users/lucas/Documents/UTFPR/Semestre/Sistemas Embarcados/LucasLeyser/sist-emb/Projeto_Final/Debug/Obj/cfaf128x128x16.o	45e9843e9c37ecb5
+2	22	6920289896438761	C:/Users/lucas/Documents/UTFPR/Semestre/Sistemas Embarcados/LucasLeyser/sist-emb/Projeto_Final/Debug/Obj/tx_initialize_low_level.o	2b3a706557dd5c79
+769	953	6920289905603104	C:/Users/lucas/Documents/UTFPR/Semestre/Sistemas Embarcados/LucasLeyser/sist-emb/Projeto_Final/Debug/Obj/snake_list.o	1cf1f401e3365f1a
+9	349	6920304207923767	C:/Users/lucas/Documents/UTFPR/Semestre/Sistemas Embarcados/LucasLeyser/sist-emb/Projeto_Final/Debug/Obj/joystick.o	56ad642ea552e95a
+2	617	6920304210422216	C:/Users/lucas/Documents/UTFPR/Semestre/Sistemas Embarcados/LucasLeyser/sist-emb/Projeto_Final/Debug/Obj/cfaf128x128x16.o	45e9843e9c37ecb5
+633	655	6920304211101808	C:/Users/lucas/Documents/UTFPR/Semestre/Sistemas Embarcados/LucasLeyser/sist-emb/Projeto_Final/Debug/Obj/tx_initialize_low_level.o	2b3a706557dd5c79
+663	822	6920304212680840	C:/Users/lucas/Documents/UTFPR/Semestre/Sistemas Embarcados/LucasLeyser/sist-emb/Projeto_Final/Debug/Obj/snake_list.o	1cf1f401e3365f1a
+835	1113	6920304215569050	C:/Users/lucas/Documents/UTFPR/Semestre/Sistemas Embarcados/LucasLeyser/sist-emb/Projeto_Final/Debug/Obj/main.o	5adcaa998be0182a
+1127	1345	6920304217857619	C:/Users/lucas/Documents/UTFPR/Semestre/Sistemas Embarcados/LucasLeyser/sist-emb/Projeto_Final/Debug/Obj/pause_button.o	16e272cc1a4c8cd6
+362	1383	6920304217937574	C:/Users/lucas/Documents/UTFPR/Semestre/Sistemas Embarcados/LucasLeyser/sist-emb/Projeto_Final/Debug/Obj/lcd.o	2667b7689242027e
+1359	1460	6920304219096851	C:/Users/lucas/Documents/UTFPR/Semestre/Sistemas Embarcados/LucasLeyser/sist-emb/Projeto_Final/Debug/Obj/startup_ewarm.o	65c5ee9690a5620f
+1475	1678	6920304221122526	C:/Users/lucas/Documents/UTFPR/Semestre/Sistemas Embarcados/LucasLeyser/sist-emb/Projeto_Final/Debug/Exe/Projeto_Final.out	677449f9d50c5971

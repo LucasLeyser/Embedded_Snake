@@ -1,2 +1,1 @@
-# Embedded_Snake
-Embedded version of Snake Game - Tiva
+Embedded version of Snake game - Tiva Microcontroller
